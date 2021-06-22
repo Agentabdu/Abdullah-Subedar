@@ -2,9 +2,14 @@
 Task 1: Robot Arm 
 
 Task
+
 تثبيت وتشغيل باكج الذراع على نظام ROS
+
+
 •	كتابة الخطوات
+
 •	تصوير النتائج
+
 
 1.	First we install ROS in Ubuntu.
 
