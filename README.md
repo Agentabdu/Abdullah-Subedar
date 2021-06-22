@@ -26,10 +26,13 @@ roslaunch robot_arm_pkg check_motors.launch
 roslaunch moveit_pkg demo.launch
 
 
+
 Task2
 
-ربط نظام ROS 
+ربط نظام ROS
+
 مع لوحة التحكم، علمًا بأن قيمة كل محرك سيتم التعبير عنها كصفحة ويب منفصلة
+
 
 كتابة طريقة الربط
 
@@ -37,6 +40,7 @@ Task2
 python or C++ 
 
 Answer: in-progress
+
 
 
 Task3
