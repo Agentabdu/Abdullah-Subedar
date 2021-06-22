@@ -26,12 +26,34 @@ roslaunch robot_arm_pkg check_motors.launch
 roslaunch moveit_pkg demo.launch
 
 
+Task2
+
+ربط نظام ROS 
+مع لوحة التحكم، علمًا بأن قيمة كل محرك سيتم التعبير عنها كصفحة ويب منفصلة
+
+كتابة طريقة الربط
+
+كتابة الأكواد باستعمال
+python or C++ 
+
+Answer: in-progress
+
+
 Task3
 
-تثبيت وتشغيل باكج الذراع على ROS noetic
+تثبيت وتشغيل باكج الذراع على 
+ROS noetic
 
-حل مشكلة robot state publisher
-
-![image](https://user-images.githubusercontent.com/86069105/122990921-221c1200-d3ad-11eb-9fdc-4e8247abe934.png)
+حل مشكلة 
+robot state publisher
 
 Answer:This is a problem caused by the missing robot_state_publisher package.
+
+simply install with this code
+
+sudo apt-get install ros-noetic-robot-state-publisher
+
+
+then update after installing the package
+
+sudo apt-get update
