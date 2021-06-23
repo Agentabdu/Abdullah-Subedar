@@ -11,7 +11,7 @@ Made by: Abdullah Subedar
 
 •	تصوير النتائج
 
-Answer:
+## Answer:
 
 1.	First we install ROS in Ubuntu.
 
@@ -51,7 +51,7 @@ MoveIt:
 كتابة الأكواد باستعمال
 python or C++ 
 
-Answer: in-progress
+## Answer: in-progress
 
 
 
@@ -63,7 +63,7 @@ ROS noetic
 حل مشكلة 
 robot state publisher
 
-Answer:This is a problem caused by the missing robot_state_publisher package.
+## Answer:This is a problem caused by the missing robot_state_publisher package.
 
 simply install with this code
 
