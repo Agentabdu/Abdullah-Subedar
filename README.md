@@ -21,10 +21,20 @@ Answer:
 
 roslaunch robot_arm_pkg check_motors.launch
 
+Gazebo:
+![Robot-Arm_Gazebo](https://user-images.githubusercontent.com/86069105/123163929-fd8e6b80-d47a-11eb-9196-86118315a9c9.png)
+
+
+RViz:
+![Robot-Arm_RViz](https://user-images.githubusercontent.com/86069105/123163978-0b43f100-d47b-11eb-9f50-bda827e98c9d.png)
+
+
 
 4.	Then we run this code and the result would be simulation of MoveIt in RViz:
 
 roslaunch moveit_pkg demo.launch
+
+![Robot-Arm_MoveIt](https://user-images.githubusercontent.com/86069105/123164064-1eef5780-d47b-11eb-987d-bb33dce0eb24.png)
 
 
 
@@ -57,7 +67,6 @@ Answer:This is a problem caused by the missing robot_state_publisher package.
 simply install with this code
 
 sudo apt-get install ros-noetic-robot-state-publisher
-
 
 then update after installing the package
 
