@@ -1,5 +1,4 @@
-# Abdullah-Subedar
-Task 1: Robot Arm 
+# Task 1: Robot Arm 
 
 Task1
 
